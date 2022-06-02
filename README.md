@@ -1,4 +1,5 @@
-## Oii eu sou o Guilherme Lima Biserra, Seja bem vindo(a) ao meu GitHub!   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+## Oii eu sou o Guilherme Lima Biserra, Seja bem vindo(a) ao meu GitHub!   
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 <p>
   • Moro em São Paulo - SP 🌇 </br>
