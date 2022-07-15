@@ -16,9 +16,9 @@
   ## Resumo do meu GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrehliug&show_icons=true&locale=en&layout=compact" alt="emrehliug" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrehliug&show_icons=true&locale=en" alt="emrehliug" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrehliug&" alt="emrehliug" /></p>
 
 ![Snake animation](https://github.com/Emrehliug/Emrehliug/blob/output/github-contribution-grid-snake.svg)
