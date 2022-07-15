@@ -1,4 +1,5 @@
-<h2>Oii eu sou o Guilherme Lima Biserra, Seja bem vindo(a) ao meu GitHub! </h2>
+<h1 align="center">Oi 👋, Eu sou Guilherme Lima Biserra</h1>
+<h3 align="center">Sou um desenvolvedor back-end .NET</h3>
 
 <p>
   • Moro em São Paulo - SP 🌇 </br>
@@ -10,24 +11,14 @@
  <a href="https://www.linkedin.com/in/guilherme-lima-biserra-33041a9a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  ## Minhas Skills:
-<a href="https://github.com/emrehliug/Aula-ProEventos">
-  <img src="https://camo.githubusercontent.com/d665435625c7b27b5616f4a59fd34de958c7ec69a7c15a73f1f7df9c4d29abc0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130382f504e472f3531322f6a6176617363726970745f69636f6e5f3133303930302e706e67" width="30px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" />
-</a>
-<a href="https://github.com/emrehliug">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
-</a>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
   ## Resumo do meu GitHub
 
-<div align="center">
-  <a href="https://github.com/Emrehliug">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emrehliug&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrehliug&layout=compact&langs_count=7&theme=gruvbox"/>
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrehliug&show_icons=true&locale=en&layout=compact" alt="emrehliug" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrehliug&show_icons=true&locale=en" alt="emrehliug" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrehliug&" alt="emrehliug" /></p>
 
 ![Snake animation](https://github.com/Emrehliug/Emrehliug/blob/output/github-contribution-grid-snake.svg)
