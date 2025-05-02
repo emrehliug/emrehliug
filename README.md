@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Lima Biserra</h1>
-<h3 align="center">A passionate frontend analytics enginner from Brasil</h3>
+<h3 align="center">A passionate analytics enginner from Brasil</h3>
 
 - 🔭 I’m currently working on **Redecard | Itau**
 
